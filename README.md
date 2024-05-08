@@ -2,6 +2,8 @@
 
 Welcome to Best Findings! This repository is a curated list of the best stuff available on the internet.
 
+# Currently the website is hosted at https://hubshashwat.github.io/best-findings
+
 ## Features to be added
 
 ### 1. Price Filter
